@@ -1,0 +1,6 @@
+{
+  "name": "Nhật Ký Trang Trại",
+  "description": "Ứng dụng quản lý đàn heo và heo nái Offline-First với kiến trúc Clean Architecture, tự động đồng bộ và hỗ trợ kỹ thuật viên tại chuồng trại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
